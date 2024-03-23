@@ -27,7 +27,7 @@ To view and run the notebooks, navigate to the project directory and start Jupyt
 
 sh
 
-jupyter notebook
+    jupyter notebook
 
 Contributing
 
@@ -38,12 +38,13 @@ We welcome contributions from the community! If you would like to contribute to 
     Commit your changes.
     Push your branch and open a pull request.
 
-For more information on contributing, please see the CONTRIBUTING.md file.
-Contact
+
+
 
 For any inquiries or collaboration proposals, please contact:
- reza.foratikashani@swansea.ac.uk
- hamidreza.eskandari@swansea.ac.uk
+
+     reza.foratikashani@swansea.ac.uk
+     hamidreza.eskandari@swansea.ac.uk
  
 Python Notebook file for analysing and predicting energy consumption 
 Some example visualisation:
