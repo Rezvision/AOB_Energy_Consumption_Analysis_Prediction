@@ -27,13 +27,12 @@ To view and run the notebooks, navigate to the project directory and start Jupyt
 
 sh
 
-    jupyter notebook
+jupyter notebook
 
-Contributing
 
 We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
 
-    Fork the repository.
+Fork the repository.
     Create a new branch for your feature or bug fix.
     Commit your changes.
     Push your branch and open a pull request.
