@@ -16,21 +16,21 @@ To run the notebooks in this project, you will need Python 3.x and the following
     seaborn
     scikit-learn
 
-You can install all required packages using the following command:
+### You can install all required packages using the following command:
 
-sh
+    sh
 
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-
-To view and run the notebooks, navigate to the project directory and start Jupyter Notebook:
-
-sh
-
-jupyter notebook
+    pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
+### To view and run the notebooks, navigate to the project directory and start Jupyter Notebook:
+
+    sh
+
+    jupyter notebook
+
+
+### We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
     Create a new branch for your feature or bug fix.
@@ -40,7 +40,7 @@ Fork the repository.
 
 
 
-For any inquiries or collaboration proposals, please contact:
+### For any inquiries or collaboration proposals, please contact:
 
      reza.foratikashani@swansea.ac.uk
      hamidreza.eskandari@swansea.ac.uk
