@@ -1,0 +1,30 @@
+Mean Absolute Error (MAE) for Linear Regression: 0.6899247050810363
+Mean Absolute Percentage Error (MAPE) for Linear Regression: 37.03377592543659 %
+Linear Regression RMSE: 0.9436948850861568
+Linear Regression NRMSE: 0.10099985794776815
+Linear Regression rRMSE: 0.46515811198571855
+Mean Absolute Error (MAE) for Random Forest: 0.6427586054531818
+Mean Absolute Percentage Error (MAPE) for Random Forest: 30.499087090937355 %
+Random Forest RMSE: 0.9493874759462313
+Random Forest NRMSE: 0.10160911299122406
+Random Forest rRMSE: 0.4679640557908899
+Mean Absolute Error (MAE) for Gradient Boosting Regression: 0.6104026702414728
+Mean Absolute Percentage Error (MAPE) for Gradient Boosting Regression: 29.53650210054252 %
+Gradient Boosting Regression RMSE: 0.8864224245035183
+Gradient Boosting Regression NRMSE: 0.09487021745211417
+Gradient Boosting Regression rRMSE: 0.4369278544581868
+Mean Absolute Error (MAE) for Ridge: 0.6899145159491031
+Mean Absolute Percentage Error (MAPE) for Ridge: 37.0328543587177 %
+Ridge RMSE: 0.9436926260594318
+Ridge NRMSE: 0.10099961617324768
+Ridge rRMSE: 0.46515699848534575
+Mean Absolute Error (MAE) for Lasso: 0.7042049145551446
+Mean Absolute Percentage Error (MAPE) for Lasso: 36.33022354536742 %
+Lasso RMSE: 1.0236139123278223
+Lasso NRMSE: 0.109553269146977
+Lasso rRMSE: 0.5045511238701417
+...
+Mean Absolute Percentage Error (MAPE) for SVR: 27.95122948191784 %
+SVR RMSE: 0.975253255555769
+SVR NRMSE: 0.10437742307487263
+SVR rRMSE: 0.4807135974047695
