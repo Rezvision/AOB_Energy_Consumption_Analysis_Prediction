@@ -1,0 +1,5 @@
+Temperature <= 8.50         1.012178
+Feelslike <= 5.25           0.636671
+Weekend <= 0.00             0.439446
+5.25 < Feelslike <= 9.67    0.204321
+Day of week_sin > 0.78      0.075941

@@ -1,0 +1,18 @@
+                   features  importance_mean  importance_std
+0                Temperature         0.421451        0.042380
+1                  Feelslike         0.325152        0.023856
+2                    Weekend         0.135743        0.016494
+3            Day of week_sin         0.014867        0.009532
+4                  Windspeed         0.006344        0.006030
+5                Weathertype         0.002255        0.007175
+6                    Uvindex         0.001309        0.006415
+7               Bank holiday         0.000977        0.000642
+8                   Hour_sin         0.000954        0.000593
+9              Working_hours         0.000137        0.000290
+10  Precipitationprobability        -0.000051        0.003540
+11                  Hour_cos        -0.000251        0.000638
+12          Day of month_cos        -0.001417        0.003669
+13                 Month_sin        -0.001693        0.002259
+14           Day of week_cos        -0.001818        0.002170
+15                 Month_cos        -0.002682        0.006876
+16          Day of month_sin        -0.010494        0.006019
