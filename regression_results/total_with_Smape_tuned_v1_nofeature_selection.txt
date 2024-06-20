@@ -1,0 +1,49 @@
+Linear Regression:
+  Train RMSE: 1.0562, Test RMSE: 0.8198
+  Train MAE: 0.7911, Test MAE: 0.6238
+  Train MAPE: 51.43%, Test MAPE: 39.71%
+  Train R^2: 0.4469, Test R^2: 0.2830
+  Train SMAPE: 43.58%, Test SMAPE: 34.58%
+  Test NRMSE: 0.1024, Test rRMSE: 0.4579
+Random Forest:
+  Train RMSE: 0.2404, Test RMSE: 0.7835
+  Train MAE: 0.1571, Test MAE: 0.5425
+  Train MAPE: 9.36%, Test MAPE: 32.34%
+  Train R^2: 0.9713, Test R^2: 0.3451
+  Train SMAPE: 8.48%, Test SMAPE: 27.50%
+  Test NRMSE: 0.0979, Test rRMSE: 0.4376
+Gradient Boosting:
+  Train RMSE: 0.8487, Test RMSE: 0.7555
+  Train MAE: 0.5784, Test MAE: 0.5592
+  Train MAPE: 34.38%, Test MAPE: 34.17%
+  Train R^2: 0.6429, Test R^2: 0.3912
+  Train SMAPE: 28.35%, Test SMAPE: 29.06%
+  Test NRMSE: 0.0944, Test rRMSE: 0.4219
+Ridge:
+  Train RMSE: 1.0562, Test RMSE: 0.8198
+  Train MAE: 0.7911, Test MAE: 0.6238
+  Train MAPE: 51.43%, Test MAPE: 39.71%
+  Train R^2: 0.4469, Test R^2: 0.2831
+  Train SMAPE: 43.58%, Test SMAPE: 34.58%
+  Test NRMSE: 0.1024, Test rRMSE: 0.4579
+Lasso:
+  Train RMSE: 1.1770, Test RMSE: 0.8262
+  Train MAE: 0.8720, Test MAE: 0.5706
+  Train MAPE: 55.26%, Test MAPE: 32.58%
+  Train R^2: 0.3132, Test R^2: 0.2719
+  Train SMAPE: 43.76%, Test SMAPE: 30.91%
+  Test NRMSE: 0.1032, Test rRMSE: 0.4614
+SVR:
+  Train RMSE: 1.4296, Test RMSE: 0.9851
+  Train MAE: 0.9099, Test MAE: 0.5924
+  Train MAPE: 41.23%, Test MAPE: 25.94%
+  Train R^2: -0.0133, Test R^2: -0.0353
+  Train SMAPE: 42.97%, Test SMAPE: 29.91%
+  Test NRMSE: 0.1230, Test rRMSE: 0.5502
+Best parameters for Random Forest: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 200}
+Best Random Forest Model:
+  Train RMSE: 0.6338, Test RMSE: 0.7540
+  Train MAE: 0.4272, Test MAE: 0.5214
+  Train MAPE: 25.64%, Test MAPE: 30.75%
+  Train R^2: 0.8008, Test R^2: 0.3935
+  Train SMAPE: 21.85%, Test SMAPE: 26.59%

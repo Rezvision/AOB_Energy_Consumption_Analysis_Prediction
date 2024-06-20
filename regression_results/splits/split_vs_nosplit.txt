@@ -1,0 +1,9 @@
+Comparison of RMSE for different models on No Splitting and Split 1:
+                   No Split   Split 1
+Linear Regression  0.602009  0.564829
+Lasso              0.670521  0.648142
+Random Forest      0.596851  0.520492
+SVR                0.774670  0.739639
+Gradient Boosting  0.591282  0.529281
+
+split 1 give higher acurracy

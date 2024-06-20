@@ -1,0 +1,62 @@
+Linear Regression:
+  Train RMSE: 0.5401, Test RMSE: 0.5718
+  Train MAE: 0.3739, Test MAE: 0.3622
+  Train MAPE: 113.13%, Test MAPE: 60.63%
+  Test NRMSE: 0.1183, Test rRMSE: 0.9120
+Random Forest:
+  Train RMSE: 0.1136, Test RMSE: 0.6736
+  Train MAE: 0.0749, Test MAE: 0.4266
+  Train MAPE: 21.17%, Test MAPE: 82.26%
+  Test NRMSE: 0.1394, Test rRMSE: 1.0745
+Gradient Boosting:
+  Train RMSE: 0.4099, Test RMSE: 0.6069
+  Train MAE: 0.2664, Test MAE: 0.4201
+  Train MAPE: 75.87%, Test MAPE: 87.38%
+  Test NRMSE: 0.1256, Test rRMSE: 0.9680
+Ridge:
+  Train RMSE: 0.5401, Test RMSE: 0.5718
+  Train MAE: 0.3738, Test MAE: 0.3622
+  Train MAPE: 113.12%, Test MAPE: 60.62%
+  Test NRMSE: 0.1183, Test rRMSE: 0.9120
+Lasso:
+  Train RMSE: 0.6126, Test RMSE: 0.5948
+  Train MAE: 0.4100, Test MAE: 0.3775
+  Train MAPE: 124.76%, Test MAPE: 66.82%
+  Test NRMSE: 0.1231, Test rRMSE: 0.9487
+...
+  Train RMSE: 0.6464, Test RMSE: 0.6631
+  Train MAE: 0.3536, Test MAE: 0.3477
+  Train MAPE: 63.78%, Test MAPE: 35.47%
+  Test NRMSE: 0.1372, Test rRMSE: 1.0576
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+
+Linear Regression:
+  Train RMSE: 0.5401, Test RMSE: 0.5718
+  Train MAE: 0.3739, Test MAE: 0.3622
+  Train MAPE: 113.13%, Test MAPE: 60.63%
+  Test NRMSE: 0.1183, Test rRMSE: 0.9120
+Random Forest:
+  Train RMSE: 0.1136, Test RMSE: 0.6736
+  Train MAE: 0.0749, Test MAE: 0.4266
+  Train MAPE: 21.17%, Test MAPE: 82.26%
+  Test NRMSE: 0.1394, Test rRMSE: 1.0745
+Gradient Boosting:
+  Train RMSE: 0.4099, Test RMSE: 0.6069
+  Train MAE: 0.2664, Test MAE: 0.4201
+  Train MAPE: 75.87%, Test MAPE: 87.38%
+  Test NRMSE: 0.1256, Test rRMSE: 0.9680
+Ridge:
+  Train RMSE: 0.5401, Test RMSE: 0.5718
+  Train MAE: 0.3738, Test MAE: 0.3622
+  Train MAPE: 113.12%, Test MAPE: 60.62%
+  Test NRMSE: 0.1183, Test rRMSE: 0.9120
+Lasso:
+  Train RMSE: 0.6126, Test RMSE: 0.5948
+  Train MAE: 0.4100, Test MAE: 0.3775
+  Train MAPE: 124.76%, Test MAPE: 66.82%
+  Test NRMSE: 0.1231, Test rRMSE: 0.9487
+SVR:
+  Train RMSE: 0.6464, Test RMSE: 0.6631
+  Train MAE: 0.3536, Test MAE: 0.3477
+  Train MAPE: 63.78%, Test MAPE: 35.47%
+  Test NRMSE: 0.1372, Test rRMSE: 1.0576

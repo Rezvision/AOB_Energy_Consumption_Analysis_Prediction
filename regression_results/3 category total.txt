@@ -1,0 +1,30 @@
+Linear Regression:
+  Train RMSE: 0.5432, Test RMSE: 0.5723
+  Train MAE: 0.3764, Test MAE: 0.3633
+  Train MAPE: 7005168159.99%, Test MAPE: 61.12%
+  Test NRMSE: 0.1184, Test rRMSE: 0.9128
+Random Forest:
+  Train RMSE: 0.1142, Test RMSE: 0.6769
+  Train MAE: 0.0757, Test MAE: 0.4267
+  Train MAPE: 484054617.16%, Test MAPE: 82.04%
+  Test NRMSE: 0.1401, Test rRMSE: 1.0797
+Gradient Boosting:
+  Train RMSE: 0.4128, Test RMSE: 0.6112
+  Train MAE: 0.2690, Test MAE: 0.4258
+  Train MAPE: 5231787430.76%, Test MAPE: 89.36%
+  Test NRMSE: 0.1265, Test rRMSE: 0.9749
+Ridge:
+  Train RMSE: 0.5432, Test RMSE: 0.5723
+  Train MAE: 0.3764, Test MAE: 0.3633
+  Train MAPE: 7005174245.62%, Test MAPE: 61.11%
+  Test NRMSE: 0.1184, Test rRMSE: 0.9128
+Lasso:
+  Train RMSE: 0.6157, Test RMSE: 0.5957
+  Train MAE: 0.4140, Test MAE: 0.3761
+  Train MAPE: 7713527579.20%, Test MAPE: 65.84%
+  Test NRMSE: 0.1233, Test rRMSE: 0.9502
+SVR:
+  Train RMSE: 0.6510, Test RMSE: 0.6681
+  Train MAE: 0.3553, Test MAE: 0.3498
+  Train MAPE: 4432401965.07%, Test MAPE: 34.92%
+  Test NRMSE: 0.1382, Test rRMSE: 1.0657

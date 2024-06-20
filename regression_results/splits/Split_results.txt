@@ -1,0 +1,9 @@
+Comparison of RMSE for different models on both splits:
+                    Split 1   Split 2
+Linear Regression  0.564829  0.573832
+Lasso              0.648142  0.671313
+Random Forest      0.518715  0.521884
+SVR                0.739639  0.758027
+Gradient Boosting  0.529281  0.524430
+
+Split 1 with the first 2 weeks of each month of 2023 does better
